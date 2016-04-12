@@ -1,4 +1,4 @@
-function foo2() {
+function foo32() {
 
 }
 
